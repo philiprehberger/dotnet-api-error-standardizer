@@ -98,6 +98,12 @@ Custom mappings in `ExceptionStatusMap` take precedence over built-in defaults.
 |--------|-------------|
 | `UseErrorStandardizer(Action<ErrorStandardizerOptions>?)` | Adds the error standardizer middleware to the pipeline |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.ApiErrorStandardizer.csproj --configuration Release
+```
+
 ## License
 
 MIT

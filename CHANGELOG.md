@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4
+
+- Add Development section to README
+- Add GenerateDocumentationFile and RepositoryType to .csproj
+
 ## 0.1.1 (2026-03-13)
 
 - Include README in NuGet package
