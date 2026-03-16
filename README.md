@@ -1,5 +1,9 @@
 # Philiprehberger.ApiErrorStandardizer
 
+[![CI](https://github.com/philiprehberger/dotnet-api-error-standardizer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-api-error-standardizer/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.ApiErrorStandardizer.svg)](https://www.nuget.org/packages/Philiprehberger.ApiErrorStandardizer)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-api-error-standardizer)](LICENSE)
+
 Middleware for consistent, structured JSON API error responses.
 
 ## Install
