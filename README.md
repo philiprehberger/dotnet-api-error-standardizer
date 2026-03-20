@@ -6,7 +6,7 @@
 
 Middleware for consistent, structured JSON API error responses.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.ApiErrorStandardizer
