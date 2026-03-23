@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.ApiErrorStandardizer</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Middleware for consistent, structured JSON API error responses</Description>
+    <Description>Middleware for consistent, structured JSON API error responses.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-api-error-standardizer</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
