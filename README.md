@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-api-error-standardizer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-api-error-standardizer/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.ApiErrorStandardizer.svg)](https://www.nuget.org/packages/Philiprehberger.ApiErrorStandardizer)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-api-error-standardizer)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Middleware for consistent, structured JSON API error responses.
 
